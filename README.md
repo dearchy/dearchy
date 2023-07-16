@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @dearchy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Wang, Fei (AKA Lydia)
+- 👀 I’m interested in CS, Singing, Guitar
+- 🌱 I’m currently learning Java, DB, Spring
+- 💞️ I’m looking to collaborate on Java E2E projects
+- 📫 How to reach me -> 
 
 <!---
 dearchy/dearchy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
